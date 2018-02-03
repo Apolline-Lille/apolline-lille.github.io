@@ -66,13 +66,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: apolline-lille
+username: Apolline-Lille
 repo: apolline-lille.github.io
 branch: master
 relative_source: /
 destination: _site/
 production_url:  https://apolline-lille.github.io/
-source_url:  https://github.com/apolline-lille/apolline-lille.github.io/
+source_url:  https://github.com/Apolline-Lille/apolline-lille.github.io/
 
 exclude:
   - README.md
