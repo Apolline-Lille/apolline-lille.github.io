@@ -66,11 +66,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
-repo: jasper2
+username: apolline-lille
+repo: apolline-lille.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: /
+destination: _site/
 production_url:  https://apolline-lille.github.io/
 source_url:  https://github.com/apolline-lille/apolline-lille.github.io/
 
